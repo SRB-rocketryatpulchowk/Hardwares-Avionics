@@ -42,4 +42,7 @@ The following table is not accurate, its in progress!!
 | Name | Price (Approx) | Libraries | Availability / Vendors / Location |
 |:-----------:|:--------------:|:---------:|:---------------------------------:|
 | Li-ion | NRs. 150-200 | -- | Asan Bazaar/Himalayan solution/Sl Tech |
+| Buck converter(2A) | NRs. 150-200? | -- | Asan Bazaar/Himalayan solution/Sl Tech |
+| Buck converter(10A) | NRs. 700 | -- | Asan Bazaar/Himalayan solution |
+| INA219(Current Sensor) | NRs. 300–600 | INA219 | Himalayan solution/SL Tech/Asan |
 
