@@ -2,6 +2,8 @@
 
 This repo contains all the hardware used and their respective information.
 
+The following table is not accurate, its in progress!! 
+
 ## Inertial Measurement Units (IMUs)
 
 | Sensor Name | Price (Approx) | Libraries | Availability / Vendors / Location |
@@ -33,4 +35,4 @@ This repo contains all the hardware used and their respective information.
 
 | Sensor Name | Price (Approx) | Libraries | Availability / Vendors / Location |
 |:-----------:|:--------------:|:---------:|:---------------------------------:|
-| SX-1278 LoRa (Ai-Thinker
+| SX-1278 LoRa (Ai-Thinker) | NRs. 300–600 | Arduino | Amazon, AliExpress |
